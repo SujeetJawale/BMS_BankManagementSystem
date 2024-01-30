@@ -1,6 +1,4 @@
-Free Download Source Code "Bank Management System"
-
-FIRST Download
+Run the Project:
 
 1.XAMPP
 
@@ -35,6 +33,3 @@ Password :cashier
 User
 Username: some@gmail.com
 Password: some
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
